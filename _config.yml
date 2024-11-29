@@ -126,7 +126,7 @@ author:
       # url: "https://twitter.com/sulyngomez"
     
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
+      icon: "fa-brands fa-linkedin"
       url: "https://linkedin.com/in/sulyn-gomez-villanueva"
 
 # Site Footer
