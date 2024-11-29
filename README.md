@@ -1,3 +1,3 @@
 # sulyngomez.github.io
 
-[Personal Page](sulyngomez.github.io)
+[Personal Page](https://sulyngomez.github.io)
