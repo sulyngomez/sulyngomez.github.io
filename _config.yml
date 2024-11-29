@@ -104,7 +104,7 @@ analytics:
 # Site Author
 author:
   name             : "<a href='/'>Sulyn Gomez</a>"
-  avatar           : "/images/me.jpeg"
+  avatar           : "/images/me.jpg"
   bio              : "Principal Researcher at DPR"
   location         : 
   email            : sulyng@dpr.com
